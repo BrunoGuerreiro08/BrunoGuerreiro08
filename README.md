@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Bruno!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&center=true&vCenter=true&repeat=false&width=1000&lines=Hi%2C+I+am+Bruno!+)](https://git.io/typing-svg)
 
 
 I am a brazilian Computer Engineeering student at UFTPR-PB, currently studying backend development using <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
