@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM3YmM2Nzc3NzZjYjU2NjNiZDM0NTEyZDliNDc5OTk1YzQ0OWUzNyZjdD1z/cMPNojQH2tB3v7NnCt/giphy.gif" width="100">
 </br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&center=true&vCenter=true&repeat=false&width=1000&lines=Hi%2C+I+am+Bruno!+)](https://git.io/typing-svg)
 
 
